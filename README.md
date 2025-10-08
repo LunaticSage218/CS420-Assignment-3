@@ -24,7 +24,7 @@ Click the **Run Project** button in the top-right corner of the Godot editor.
 ---
 
 ### Flocking Demonstration
-- The flocking comes in the form of Goku's Ki energy blasts. They flock twoards the enemies. The projectiles script is written in C#. 
+- The flocking comes in the form of Goku's Ki energy blasts. They flock twoards the enemies. This is similar to what happens in the show, many characters have attacks that will follow the enemies and previously the attack was a static beam that didn't follow the enemy. The projectiles script is written in C#. 
 
 ## Getting Started
 
